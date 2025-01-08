@@ -15,7 +15,7 @@ class Question1(MCQuestion):
             keys=['q1-1-Pootie-Tang-Uppercase', 'q1-2-Replace-Strings'],
             options=[['`phrase.uppercase()`', '`uppercase(phrase)`', '`phrase.upper()`', '`phrase.toUpperCase()`'], ['`phrase.replace("awesome", "cool")`', '`replace(phrase, "cool", "awesome")`', '`phrase.replace("cool", "awesome")`', '`phrase.sub("cool", "awesome")`']],
             descriptions=['Pootie Tang wants his catchphrase "Wa Da Tah!" to be LOUDER. How can he make it uppercase in Python?', 'Pootie Tang’s line "PootieTang is cool" needs a style upgrade. What Python method can he use to replace "cool" with "awesome"?'],
-            points=[2.0, 2.0],
+            points=[1.0, 1.0],
         )
 class Question3(TFQuestion):
     def __init__(self):
@@ -36,6 +36,6 @@ class Question2(SelectMany):
             keys=['q2-1-String-Methods'],
             descriptions=['Which of the following are valid string methods in Python? (Select all that apply)'],
             options=[['`join()`', '`split()`', '`replace()`', '`combine()`', '`upper()`']],
-            points=[3.0],
+            points=[2.0],
             grade=['parts'],
         )

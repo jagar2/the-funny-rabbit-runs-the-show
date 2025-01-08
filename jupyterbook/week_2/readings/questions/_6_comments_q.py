@@ -15,7 +15,7 @@ class Question2(MCQuestion):
             keys=['q2-1-description-of-a-comment-in-python', 'q2-2-Comment-Functionality'],
             options=[['A line of code that performs arithmetic operations', 'Text ignored by the Python interpreter, used to explain code', 'A special variable storing metadata about the program', 'A mandatory section in every Python program'], ['Defines a function for calculating stress', 'Explains the purpose of the program', 'Computes the stress from force and area', 'Is executed by Python']],
             descriptions=['Which of the following best describes a comment in Python?', None],
-            points=[2.0, 2.0],
+            points=[1.0, 1.0],
         )
 class Question1(TFQuestion):
     def __init__(self):
@@ -36,6 +36,6 @@ class Question3(SelectMany):
             keys=['q3-1-Using-Comments-in-Python', 'q3-2-Valid-Python-Comments'],
             descriptions=['Which of these are valid reasons to use comments in Python?', 'Which of the following lines are valid Python comments?'],
             options=[['To explain complex code', 'To store temporary variables', 'To improve code readability', 'To communicate assumptions or logic to future readers'], ['`# This is a comment`', '`This is not a comment`', '`#Calculate the area`', '`// This is not a Python comment`']],
-            points=[4.0, 4.0],
+            points=[2.0, 2.0],
             grade=['parts'],
         )

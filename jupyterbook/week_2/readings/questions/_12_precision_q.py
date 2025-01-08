@@ -15,7 +15,7 @@ class Question1(MCQuestion):
             keys=['q1-1-Floating-Point-Precision'],
             options=[['(0.1 + 0.2) == 0.3', 'abs((0.1 + 0.2) - 0.3) < 1e-10', 'if int(0.1 + 0.2) == int(0.3)', 'if str(0.1 + 0.2) == str(0.3)']],
             descriptions=['A NIST scientist needs to compare two measurements: 0.1 + 0.2 and 0.3. Which Python code would be most appropriate for this comparison?'],
-            points=[2.0],
+            points=[1.0],
         )
 class Question3(TFQuestion):
     def __init__(self):
@@ -36,6 +36,6 @@ class Question2(SelectMany):
             keys=['q2-1-Number-Representation'],
             descriptions=['Which of the following statements about number representation in Python are correct? (Select all that apply)'],
             options=[['Integers in Python have unlimited precision', 'Floating-point numbers can represent decimal numbers', 'All decimal numbers can be represented exactly in binary', 'The math.isclose() function is better than == for comparing floats', 'Double precision floating-point numbers are more efficient than single precision']],
-            points=[3.0],
+            points=[2.0],
             grade=['parts'],
         )
