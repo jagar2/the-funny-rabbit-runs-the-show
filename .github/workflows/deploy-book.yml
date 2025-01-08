@@ -76,7 +76,7 @@ jobs:
           fi
 
       - name: Upload and Deploy
-        if: contains(github.event.head_commit.message, '#dev')
+        if: contains(github.event.head_commit.message, '#build')
         run: |
           SMBSHARE="/mnt/drexel_web/josh-dev"
           JBPATH="./jupyterbook"
