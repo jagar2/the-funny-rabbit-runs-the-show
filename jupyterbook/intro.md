@@ -26,7 +26,18 @@ listed in chronological order of due date
 - [Homework 1 (1/14) 1:59 pm](../jupyterbook/week_1/homework/1_Homework_1_Python_with_The_Office.ipynb)
     1. [🏠 🧠 Homework 1 - Python with "The Office"](../jupyterbook/week_1/homework/1_Homework_1_Python_with_The_Office.ipynb)
 
+- [Reading 2 (1/14) 1:59 pm](../jupyterbook/week_2/readings/index.md)
+    1. {doc}`❓Pootie Tang's Wild String Manipulation Adventures <./2_strings_q>`
+    2. {doc}`❓ Python Datatypes: The Periodic Table Edition 🧪 <./4_datatypes_q>`
+    3. {doc}`❓ Commenting <./6_comments_q>`
+    4. {doc}`❓ 🔬  Materials Design: Lists and Tuples <./8_lists_and_tuples_q>`
+    5. {doc}`❓ Dictionaries and Search Engine Optimization (SEO) 👀 <./10_dictionaries_q>`
+    6. {doc}`❓ Precision in Python: NIST Laboratory Adventures 🧪 <./12_precision_q>`
+
+
 ## Office Hours
+
+Monday: 9:00 am - 11:00 am (Dan Tran - Zoom)
 
 Monday: 5:00 pm - 6:00 pm (Ritu Ghosh - Zoom)
 
@@ -35,6 +46,8 @@ Tuesday: 12:00 pm - 1:00 pm (David Khan - Innovation Studio)
 Thursday: 8:00 am - 10:00 am (Jonathan Ehring- Zoom)
 
 Thursday: 10:00 am - 12:00 pm (Jonathan Ehring - Innovation Studio)
+
+Thursday: 11:00 am - 12:00 pm (Prof. Agar - Curtis 261C)
 
 Thursday: 2:00 pm - 3:00 pm (David Khan - Zoom)
 
