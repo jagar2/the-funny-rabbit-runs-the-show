@@ -34,8 +34,8 @@ class Question2(SelectMany):
             style=MultiSelect,
             question_number=2,
             keys=['q2-1-Electron-Configuration-Storage', 'q2-2-Element-Properties-Storage'],
-            descriptions=['Electron orbital configurations are defined using 1s² 2s² 2p⁶ notation what are viable data types for storing this information?', 'If you have an element what data types might you use to describe its attributes in python?'],
-            options=[['String', 'List', 'Tuple', 'Integer'], ['dictionary', 'word', 'list', 'fuzzyint', 'tuple', 'bit', 'float', 'char', 'str', 'string']],
+            descriptions=['Electron orbital configurations are defined using 1s2 2s2 2p6 notation what are viable data types for storing this information?', 'If you have an element what data types might you use to describe its attributes in python?'],
+            options=[['String', 'List', 'Tuple', 'Integer'], ['dictionary', 'word', 'list', 'fuzzyint', 'tuple', 'bit', 'float', 'char', 'string']],
             points=[2.0, 2.0],
             grade=['parts'],
         )
