@@ -6,3 +6,4 @@ pykubegrader
 pydub
 panel
 scipy
+soundfile
