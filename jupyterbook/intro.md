@@ -8,7 +8,7 @@
 
 listed in chronological order of due date
 
-- [Reading Thursday (1/9)](../jupyterbook/week_1/readings/index.md)
+<!-- - [Reading Thursday (1/9)](../jupyterbook/week_1/readings/index.md)
     1. [❓What is Python](../jupyterbook/week_1/readings/7_what_is_python_q.ipynb)
     2. [❓What is a Program?](../jupyterbook/week_1/readings/9_what_is_a_program_q.ipynb)
     3. [❓Formal vs. Natural Languages](../jupyterbook/week_1/readings/11_formal_and_natural_language_q.ipynb)
@@ -17,7 +17,7 @@ listed in chronological order of due date
     6. [❓Python Operators](../jupyterbook/week_1/readings/17_operators_q.ipynb)
 
 - [Practice Quiz (before lab - 1/10 - 2:59 pm)](../jupyterbook/week_1/quiz1/1_practice-quiz.ipynb)
-    1. [❓Calculating Total Credits at Drexel! 🎓](../jupyterbook/week_1/quiz1/1_practice-quiz.ipynb)
+    1. [❓Calculating Total Credits at Drexel! 🎓](../jupyterbook/week_1/quiz1/1_practice-quiz.ipynb) -->
 
 - [Lecture Activity (1/14)](../jupyterbook/week_1/lecture/index.md)
     1. [❓🚀 Activity: Hello, World! JupyterHub](../jupyterbook/week_1/lecture/6_Activity_1_Using_the_JupyterHub.ipynb)
@@ -34,6 +34,8 @@ listed in chronological order of due date
     5. {doc}`❓ Dictionaries and Search Engine Optimization (SEO) 👀 <./10_dictionaries_q>`
     6. {doc}`❓ Precision in Python: NIST Laboratory Adventures 🧪 <./12_precision_q>`
 
+- [Practice Quiz (before lab - 1/17 - 1:59 pm)](../jupyterbook/week_2/practicequiz/1_practice_quiz_data_types_q.ipynb)
+    1. [❓ Python Basics: Data Structures and Types Quiz 🐍](../jupyterbook/week_2/practicequiz/1_practice_quiz_data_types_q.ipynb)
 
 ## Office Hours
 
