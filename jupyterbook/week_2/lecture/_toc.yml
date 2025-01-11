@@ -4,12 +4,4 @@ chapters:
 - file: week_2/lecture/index
   title: Lecture
   sections:
-  - file: week_2/lecture/1_Drexel_String_Lecture
-  - file: week_2/lecture/2_Data_Types
-  - file: week_2/lecture/3_Python_Commenting_and_Docstrings
-  - file: week_2/lecture/4_skull_q
-  - file: week_2/lecture/5_Video_Game_History
-  - file: week_2/lecture/6_lists_and_collections
-  - file: week_2/lecture/7_Dictionaries
-  - file: week_2/lecture/8_Precision_Dynamic_Typing
-  - file: week_2/lecture/9_dictionaries_q
+
