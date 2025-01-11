@@ -35,7 +35,7 @@ class Question2(SelectMany):
             question_number=2,
             keys=['q2-1-Dictionary-Operations', 'q2-2-List-Methods'],
             descriptions=['Which of the following operations are valid for Python dictionaries?', 'Which of the following list methods modify the list in-place?'],
-            options=[['Using a integer as a dictionary key', 'Adding new key-value pairs after creation', 'Using lists as dictionary keys', 'Having duplicate keys in a dictionary'], ['append()', 'count()', 'sort()', 'index()']],
+            options=[['Using a integer as a dictionary key', 'Adding new key value pairs after creation', 'Using lists as dictionary keys', 'Having duplicate keys in a dictionary'], ['append()', 'count()', 'sort()', 'index()']],
             points=[2.0, 2.0],
             grade=['parts'],
         )
