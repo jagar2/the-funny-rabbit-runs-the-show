@@ -37,6 +37,9 @@ listed in chronological order of due date
 - [Practice Quiz (before lab - 1/17 - 1:59 pm)](../jupyterbook/week_2/practicequiz/1_practice_quiz_data_types_q.ipynb)
     1. [❓ Python Basics: Data Structures and Types Quiz 🐍](../jupyterbook/week_2/practicequiz/1_practice_quiz_data_types_q.ipynb)
 
+- [Lab Scrabble (1/21) 1:59 pm](../jupyterbook/week_2/lab/1_lab_scrabble.ipynb)
+    1. [🧪 🎮 Lab 2: Scrabble Game Calculator](../jupyterbook/week_2/lab/1_lab_scrabble.ipynb)
+
 ## Office Hours
 
 Monday: 9:00 am - 11:00 am (Dan Tran - Zoom)
