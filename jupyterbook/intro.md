@@ -40,6 +40,9 @@ listed in chronological order of due date
 - [Lab Scrabble (1/21) 1:59 pm](../jupyterbook/week_2/lab/1_lab_scrabble.ipynb)
     1. [🧪 🎮 Lab 2: Scrabble Game Calculator](../jupyterbook/week_2/lab/1_lab_scrabble.ipynb)
 
+- [Homework 2 (1/21) 1:59 pm](../jupyterbook/week_2/homework/1_homework.ipynb)
+    1. [🏠 Python Programming: Explore the Nutshell Studies 🕵️‍♀️🔍](../jupyterbook/week_2/homework/1_homework.ipynb)
+    
 ## Office Hours
 
 Monday: 9:00 am - 11:00 am (Dan Tran - Zoom)
