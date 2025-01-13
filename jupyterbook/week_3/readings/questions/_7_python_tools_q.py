@@ -15,7 +15,7 @@ class Question1(MCQuestion):
             keys=['q1-1-what-is-numpy-used-for', 'q1-2-which-is-pandas-most-suitable-for', 'q1-3-what-is-matplotlib-used-for'],
             options=[['Handling symbolic mathematics', 'Numerical operations on large arrays and matrices', 'Creating static visualizations', 'Statistical analysis and modeling'], ['Symbolic mathematics', 'Solving differential equations', 'Handling and analyzing structured data', 'Visualizing complex plots'], ['Solving optimization problems', 'Building statistical models', 'Creating visualizations such as plots and graphs', 'Performing symbolic computations']],
             descriptions=['What is NumPy primarily used for?', 'Which of the following tasks is Pandas most suitable for?', 'What is Matplotlib primarily used for?'],
-            points=[2.0, 2.0, 2.0],
+            points=[1.0, 1.0, 1.0],
         )
 class Question3(TFQuestion):
     def __init__(self):
@@ -36,6 +36,6 @@ class Question2(SelectMany):
             keys=['q2-1-match-libraries-to-purposes', 'q2-2-numpy-or-sympy'],
             descriptions=['Match the following libraries with their primary purposes', 'Which of the following libraries are used for numerical or symbolic computations?'],
             options=[['NumPy: Symbolic mathematics', 'Pandas: Handling structured data', 'SciPy: Advanced scientific computing', 'Matplotlib: Creating visualizations'], ['NumPy', 'SymPy', 'OpenCV', 'Matplotlib']],
-            points=[4.0, 4.0],
+            points=[2.0, 2.0],
             grade=['parts'],
         )
