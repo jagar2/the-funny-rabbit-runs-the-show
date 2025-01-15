@@ -9,4 +9,4 @@
 [lab](lab/1_lab_scrabble.ipynb)
 
 [Homework](homework/1_homework.ipynb) 
-
+ 
