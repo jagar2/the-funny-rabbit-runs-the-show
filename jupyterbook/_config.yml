@@ -58,5 +58,3 @@ sphinx:
   config:
     html_extra_path:
       ["instructors/assets/figures", "week_1/lecture/assets/figures"]
-
-only_build_toc_files: true
