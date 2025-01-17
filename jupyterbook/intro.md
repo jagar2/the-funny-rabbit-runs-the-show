@@ -48,9 +48,24 @@ listed in chronological order of due date
 - [Reading 3 (1/21) 1:59 pm](../jupyterbook/week_3/readings/index.md)
 
   1.[❓💥 Errors and Exceptions ](../jupyterbook/week_3/readings/2_errors_q.ipynb)
+
   2.[❓🐍 Python Tools for Engineering 🛠️ ](../jupyterbook/week_3/readings/7_python_tools_q.ipynb)
-  3.[❓ 🌊 Lotl of NumPy 🧪🐾 ](../jupyterbook/week_3/readings/9_numpy_q.ipynb)
-  4.[❓ ❌ Eliminate or ✅ Evaluate: Surviving the Sympy 🦑 Challenge! ](../jupyterbook/week_3/readings/15_sympy_q.ipynb)
+
+  3.[❓🌊 Lotl of NumPy 🧪🐾 ](../jupyterbook/week_3/readings/9_numpy_q.ipynb)
+
+  4.[❓❌ Eliminate or ✅ Evaluate: Surviving the Sympy 🦑 Challenge!](../jupyterbook/week_3/readings/15_sympy_q.ipynb)
+
+- [❓🧪 Practice Quiz: Errors and Exceptions (before lab - 1/24 - 1:59 pm)](../jupyterbook/week_3/practicequiz/1_practicequiz_q.ipynb)
+
+  1. [❓🧪 Practice Quiz: Errors and Exceptions](../jupyterbook/week_3/practicequiz/1_practicequiz_q.ipynb)
+
+- [🧪 Lab Designing Composites with Optimal Mechanical Properties 🔩⚙️💪](../jupyterbook/week_3/lab/1_lab_composite.ipynb)
+
+  1. [🧪 Lab Designing Composites with Optimal Mechanical Properties 🔩⚙️💪](../jupyterbook/week_3/lab/1_lab_composite.ipynb)
+
+- [🏠 Homework The Flight of the Angry Bird 🚀🐦 (1/28) 1:59 pm](../jupyterbook/week_3/homework/angry_bird.ipynb)
+
+  1. [🏠 Homework The Flight of the Angry Bird 🚀🐦](../jupyterbook/week_3/homework/angry_bird.ipynb)
 
 ## Office Hours
 
