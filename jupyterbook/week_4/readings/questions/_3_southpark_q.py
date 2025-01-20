@@ -24,7 +24,7 @@ class Question3(TFQuestion):
             style=TFStyle,
             question_number=3,
             keys=['q3-1-logical-negation', 'q3-2-short-circuiting', 'q3-3-equality-checks'],
-            descriptions=[None, None, None],
+            descriptions=['The `not` operator inverts the truth value of a boolean.', 'In Python, the `or` operator stops evaluating as soon as the first operand evaluates to `True`.', 'The `==` operator checks if two variables refer to the exact same object in memory.'],
             points=[1.0, 1.0, 1.0],
         )
 class Question2(SelectMany):
@@ -34,7 +34,7 @@ class Question2(SelectMany):
             style=MultiSelect,
             question_number=2,
             keys=['q2-1-if-else-logical-operators', 'q2-2-southpark-if-else'],
-            descriptions=[None, None],
+            descriptions=['Which of the following are logical operators in Python?', None],
             options=[['`and`', '`or`', '`not`', '`nor`'], ['When `kenny_alive` is `True`', 'When `kenny_alive` is `False`', 'When the variable `kenny_alive` is undefined', 'Always, regardless of the value of `kenny_alive`']],
             points=[2.0, 2.0],
             grade=['parts'],

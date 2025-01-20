@@ -24,7 +24,7 @@ class Question3(TFQuestion):
             style=TFStyle,
             question_number=3,
             keys=['q3-1-mortified-loop-behavior', 'q3-2-mortified-loop-termination', 'q3-3-mortified-continue-effect'],
-            descriptions=[None, None, None],
+            descriptions=['A `for` loop in Python can only iterate over numeric values.', 'The `break` statement stops the execution of a loop and resumes the code after the loop.', 'The `continue` statement skips the remaining code in the loop for the current iteration and moves to the next iteration.'],
             points=[1.0, 1.0, 1.0],
         )
 class Question2(SelectMany):
@@ -34,7 +34,7 @@ class Question2(SelectMany):
             style=MultiSelect,
             question_number=2,
             keys=['q2-1-mortified-loop-utilities', 'q2-2-mortified-for-loop-features'],
-            descriptions=[None, None],
+            descriptions=['Which Python statements can alter the flow of a loop?', 'Which of the following are true about `for` loops in Python?'],
             options=[['`break`', '`continue`', '`end`', '`exit()`'], ['They can iterate over strings.', 'They can iterate over lists.', 'They require a `range` function.', 'They cannot use a `break` statement.']],
             points=[2.0, 2.0],
             grade=['parts'],

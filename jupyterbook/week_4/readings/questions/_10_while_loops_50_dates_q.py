@@ -24,7 +24,7 @@ class Question3(TFQuestion):
             style=TFStyle,
             question_number=3,
             keys=['q3-1-first-date-while-infinite', 'q3-2-first-date-while-check-before', 'q3-3-first-date-while-break'],
-            descriptions=[None, None, None],
+            descriptions=['A `while True:` loop will run infinitely unless there is a `break` statement inside it.', 'A `while` loop checks its condition before executing the loop body.', 'A `while` loop will always execute at least once, even if the condition is `False` initially.'],
             points=[1.0, 1.0, 1.0],
         )
 class Question2(SelectMany):
@@ -34,7 +34,7 @@ class Question2(SelectMany):
             style=MultiSelect,
             question_number=2,
             keys=['q2-1-first-date-while-features', 'q2-2-first-date-while-common-errors'],
-            descriptions=[None, None],
+            descriptions=['Which of the following are true about `while` loops in Python?', 'Which of the following can cause an infinite `while` loop in Python?'],
             options=[['A `while` loop executes as long as its condition is `True`.', 'A `while` loop can run infinitely if the condition never becomes `False`.', 'A `while` loop can include a `break` statement to exit early.', 'A `while` loop requires a `range()` function.'], ['Forgetting to update variables inside the loop', 'Using a `True` condition without a `break` statement', 'Setting the condition to `False`', 'Including unreachable code after a `break` statement']],
             points=[2.0, 2.0],
             grade=['parts'],
