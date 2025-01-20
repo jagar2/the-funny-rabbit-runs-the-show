@@ -12,8 +12,8 @@ class Question1(MCQuestion):
             style=MCQ,
             question_number=1,
             keys=['q1-1-Sport-Car-Engine-Tracking-System', 'q1-2-Default-Fuel-Type-in-Car-Array', 'q1-3-NumPy Basics in Engine Performance Analysis'],
-            options=[['np.max()', 'np.size()', 'np.size()', 'np.arange()'], ['It was designed by Ferrari engineers', 'It uses C code under the hood', 'It uses Python code under the hood', 'It uses CUDA to enable GPU acceleration'], ['Creates a 5x5 array filled with zeros.', 'Creates a 5x5 array filled with ones.', 'Creates an array of zeros with shape (5, 5, 5).', 'Returns an error.']],
-            descriptions=['Which method would you use to find the max horsepower of a NumPy array representing engine output power as a function of time?', None, "What does `np.zeros((5, 5))` do in a car's engine monitoring system?"],
+            options=[['np.shape()', '.shape', 'np.size()', '.size'], ['object', 'float', 'str', 'int'], ['Creates a 5x5 array filled with zeros.', 'Creates a 5x5 array filled with ones.', 'Creates an array of zeros with shape (5, 5, 5).', 'Returns an error.']],
+            descriptions=['Which method would you use to find the horsepower of a NumPy array representing engine performance data?', 'What is the default data type of a NumPy array created using `np.array(["Petrol", "Diesel", "Electric"])` in the car sensor system?', "What does `np.zeros((5, 5))` do in a car's engine monitoring system?"],
             points=[1.0, 1.0, 1.0],
         )
 class Question2(SelectMany):
