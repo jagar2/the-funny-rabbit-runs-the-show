@@ -24,7 +24,7 @@ class Question2(SelectMany):
             question_number=2,
             keys=['q2-1-SymPy-Capabilities-in-Performance-Tuning', 'q2-2-Valid-NumPy-Array-Creation-Methods'],
             descriptions=['Which of the following are SymPy capabilities used to model sport car suspension dynamics?', 'Which of the following are valid ways to create a NumPy array for tracking tire pressure?'],
-            options=[['Solving equations symbolically.', 'Calculating definite integrals.', 'Performing symbolic differentiation.', 'Generating random numbers.', 'Creating arrays for numerical computation.'], ['np.zeros()', 'np.arange()', 'np.random.random()', 'np.string()', 'np.array([])']],
+            options=[['Solving equations symbolically.', 'Calculating definite integrals.', 'Performing symbolic differentiation.', 'Generating random numbers.', 'Creating arrays for numerical computation.'], ['np.zeros()', 'np.array([])', 'np.string()', 'np.arange()', 'np.random.random()']],
             points=[2.0, 2.0],
             grade=['parts'],
         )
