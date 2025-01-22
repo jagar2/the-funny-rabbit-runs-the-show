@@ -12,7 +12,7 @@ class Question1(MCQuestion):
             style=MCQ,
             question_number=1,
             keys=['q1-1-Shape-of-the-Bread-Tracking-Array', 'q1-2-Default-Data-Type-in-Smart-Toaster-Arrays', 'q1-3-NumPy Basics in Smart Toasters'],
-            options=[['.get_shape', '.shape', '.dimensions', '.size'], ['int', 'float', 'str', 'complex'], ['Creates a 3x3 array filled with zeros.', 'Creates a 3x3 array filled with ones.', 'Creates an array of zeros with shape (3, 3, 3).', 'Returns an error.']],
+            options=[['np.shape()', '.shape', 'np.size()', '.size'], ['int', 'float', 'str', 'complex'], ['Creates a 3x3 array filled with zeros.', 'Creates a 3x3 array filled with ones.', 'Creates an array of zeros with shape (3, 3, 3).', 'Returns an error.']],
             descriptions=['Which method would you use to find the shape of a NumPy array representing bread slices in the toaster?', "What is the default data type of a NumPy array created using `np.array([1, 2, 3])` in the toaster's sensor system?", "What does `np.zeros((3, 3))` do in a toaster's bread tracking system?"],
             points=[1.0, 1.0, 1.0],
         )

@@ -4,7 +4,7 @@
 
 **Lab 1: Note all labs for week 1 will be held in the Innovation studio.** -->
 
-## Assignments
+## Assignments 
 
 listed in chronological order of due date
 
