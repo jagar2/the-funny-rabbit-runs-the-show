@@ -1,4 +1,4 @@
-# Week 4: Conditionals, For Loop, While Loop
+# Week 4: Boolean, If-Else Statements, Loops
 
 [Reading](readings/index)
 
@@ -9,4 +9,3 @@
 [lab](lab/1_lab_composite.ipynb)
 
 [Homework](homework/angry_bird.ipynb) -->
-
