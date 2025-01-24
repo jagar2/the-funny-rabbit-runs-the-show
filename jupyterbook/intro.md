@@ -4,7 +4,7 @@
 
 **Lab 1: Note all labs for week 1 will be held in the Innovation studio.** -->
 
-## Assignments 
+## Assignments
 
 listed in chronological order of due date
 
@@ -45,7 +45,7 @@ listed in chronological order of due date
 
   1. [🏠 Python Programming: Explore the Nutshell Studies 🕵️‍♀️🔍](../jupyterbook/week_2/homework/1_homework.ipynb) -->
 
-<!-- - [Reading 3 (1/21) 1:59 pm](../jupyterbook/week_3/readings/index.md)
+- [Reading 3 (1/21) 1:59 pm](../jupyterbook/week_3/readings/index.md)
 
   1.[❓💥 Errors and Exceptions ](../jupyterbook/week_3/readings/2_errors_q.ipynb)
 
@@ -65,13 +65,7 @@ listed in chronological order of due date
 
 - [🏠 Homework The Flight of the Angry Bird 🚀🐦 (1/28) 1:59 pm](../jupyterbook/week_3/homework/angry_bird.ipynb)
 
-  1. [🏠 Homework The Flight of the Angry Bird 🚀🐦](../jupyterbook/week_3/homework/angry_bird.ipynb) -->
-
-[Reading 4 (1/28) 1:59 pm](../jupyterbook/week_4/readings/index.md)
-
-  1. [❓ 🏞️ South Park Adventures 🧢🌲](../jupyterbook/week_3/3_southpark_q.ipynb)
-  2. [❓ 📓 Mortified: High School Diaries 📔💔](../jupyterbook/week_3/8_mortified_loops_q.ipynb)
-  3. [❓ 🌺 50 First Dates 🌴💞](../jupyterbook/week_3/10_while_loops_50_dates_q.ipynb) 
+  1. [🏠 Homework The Flight of the Angry Bird 🚀🐦](../jupyterbook/week_3/homework/angry_bird.ipynb)
 
 ## Office Hours
 
