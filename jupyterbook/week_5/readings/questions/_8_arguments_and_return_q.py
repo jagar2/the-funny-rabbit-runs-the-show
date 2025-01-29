@@ -14,7 +14,7 @@ class Question1(MCQuestion):
             question_number=1,
             keys=['q1-1-door-direction-parameters', 'q1-2-door-return-values'],
             options=[['Correct', 'Wrong', 'None', 'Error'], ['It returns `None` by default.', 'It raises an error.', 'It loops indefinitely.', 'It returns the first argument passed to it.']],
-            descriptions=['What will the following function call output?**\n```python\ndef check_door(direction):\n    if direction == "push":\n        return "Correct"\n    else:\n        return "Wrong"\n    print(check_door("pull"))\n```', 'What happens if a function has no `return` statement?'],
+            descriptions=['What will the following function call output?**\n```python\ndef check_door(direction):\n    if direction == "push":\n        return "Correct"\n    else:\n        return "Wrong"\n        \nprint(check_door("pull"))\n```', 'What happens if a function has no `return` statement?'],
             points=[1.0, 1.0],
         )
 class Question3(TFQuestion):

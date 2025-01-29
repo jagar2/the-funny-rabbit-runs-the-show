@@ -13,7 +13,7 @@ class Question1(MCQuestion):
             style=MCQ,
             question_number=1,
             keys=['q1-1-brawler-abilities', 'q1-2-brawler-statistics'],
-            options=[['Super Gadget Passive Ability', 'Super\\\\nGadget\\\\nPassive Ability', "['Super', 'Gadget', 'Passive Ability']", 'None'], ["Shelly {'health': 3600, 'power': 10}", 'Shelly (3600, 10)', "Shelly ['health', 'power']", 'Error']],
+            options=[['Super Gadget Passive Ability', 'Super\\nGadget\\nPassive Ability', "['Super', 'Gadget', 'Passive Ability']", 'None'], ["Shelly {'health': 3600, 'power': 10}", 'Shelly (3600, 10)', "Shelly ['health', 'power']", 'Error']],
             descriptions=['What will the following function output?**\n```python\ndef show_abilities(*args):\nfor ability in args:\n    print(ability)\n\nshow_abilities("Super", "Gadget", "Passive Ability")\n```', 'What will the following function output when called as shown?**\n```python\ndef brawler_stats(name, **kwargs):\nprint(name)\nprint(kwargs)\n\nbrawler_stats("Shelly", health=3600, power=10)\n```'],
             points=[1.0, 1.0],
         )
