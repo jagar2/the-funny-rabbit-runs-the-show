@@ -79,10 +79,6 @@ listed in chronological order of due date
 
   1. [❓ Practice Quiz: Control Structures for Renewable Energy Applications ](../jupyterbook/week_4/practicequiz/1_practicequiz_q.ipynb)
 
-- [❓ Quiz: Control Structures for Engineering Applications (1/31 - 11:59pm)](../jupyterbook/week_4/quiz/1_quiz_q.ipynb)
-
-  1. [❓ Quiz: Control Structures for Engineering Applications ](../jupyterbook/week_4/quiz/1_quiz_q.ipynb)
-
 - [🎮 LAB 4 : BATTLESHIP 🎮 (2/04 - 1:59 pm)](../jupyterbook/week_4/lab4/Lab_4_Battleship.ipynb)
 
   1. [🎮 LAB 4 : BATTLESHIP 🎮 ](../jupyterbook/week_4/lab4/Lab_4_Battleship.ipynb)
