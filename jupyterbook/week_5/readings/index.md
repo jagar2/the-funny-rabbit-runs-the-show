@@ -1,7 +1,7 @@
 # Readings
 1. {doc}`🛠️ Function Junction, What's Your Function? 🚂💻 <./1_defining_functions>`
 2. {doc}`❄️ Let it Flow, Let it Flow! 🚦 <./2_flow_control>`
-3. {doc}`❓ Python Quiz: Functions and Flow Control in the Mall <./3_flow_control_q>`
+3. {doc}`❓ Functions and Flow Control in the Mall <./3_flow_control_q>`
 4. {doc}`🎲 What Happens in the Function, Stays in the Function – Vegas Rules of Scope 🃏 <./4_scope>`
 5. {doc}`❓ Shrinkflation Function Scope <./5_shrinkflation_q>`
 6. {doc}`🖖 Arguments and Parameters: The Spock & Captain Kirk Duo <./6_arguments_and_parameters>`
