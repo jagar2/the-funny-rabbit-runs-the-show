@@ -1,4 +1,5 @@
 from pykubegrader.widgets.select_many import MultiSelect, SelectMany
+from pykubegrader.widgets.true_false import TFQuestion, TFStyle
 from pykubegrader.widgets.multiple_choice import MCQuestion, MCQ
 import pykubegrader.initialize
 import panel as pn
@@ -15,6 +16,16 @@ class Question1(MCQuestion):
             options=[['A function must be declared with the `def` keyword.', 'A function can be created using `function` instead of `def`.', 'Python automatically infers function definitions without any keyword.', 'Functions can only return integer values.'], ['`*args`', '`**kwargs`', 'Both `*args` and `**kwargs`', 'Neither `*args` nor `**kwargs`']],
             descriptions=['You’re designing a function to calculate power output in a smart grid. What is the correct way to define a function in Python?', 'In a smart grid monitoring system, a function is designed to accept an arbitrary number of sensor readings. What could be used in the function definition?'],
             points=[1.0, 1.0],
+        )
+class Question3(TFQuestion):
+    def __init__(self):
+        super().__init__(
+            title=f"True or False",
+            style=TFStyle,
+            question_number=3,
+            keys=['q3-1-function-scope', 'q3-2-args-order', 'q3-3-optional-arguments'],
+            descriptions=['In a smart grid monitoring system, variables declared inside a function are accessible outside the function.', 'In Python, positional arguments must always come before `*args` in a function definition.', 'Optional arguments must have default values.'],
+            points=[1.0, 1.0, 1.0],
         )
 class Question2(SelectMany):
     def __init__(self):
