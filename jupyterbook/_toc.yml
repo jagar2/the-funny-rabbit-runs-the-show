@@ -200,10 +200,7 @@ parts:
                 - file: week_5/lecture/7_args_kwargs
                 - file: week_5/lecture/8_lambda_function
                 - file: week_5/lecture/10_rube_goldberg
-          # - file: week_5/practicequiz/1_practicequiz_q
-          # - file: week_5/lab/1_lab_functions
-          # - file: week_5/attendance/1_week_5_attendance
-          # - file: week_5/homework/homework_5
+          - file: week_5/practicequiz/1_kanye_q
       - file: midterm/index
         title: "Midterm"
         sections:
