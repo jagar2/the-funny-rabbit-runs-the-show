@@ -202,7 +202,7 @@ parts:
                 - file: week_5/lecture/10_rube_goldberg
           - file: week_5/practicequiz/1_kanye_q
       - file: midterm/index
-        title: "Midterm"
+        title: "Practice Midterm"
         sections:
           - file: midterm/practicemidterm/topics
           - file: midterm/practicemidterm/1_practicemidterm_q
