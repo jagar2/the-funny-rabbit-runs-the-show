@@ -203,7 +203,8 @@ parts:
           - file: week_5/practicequiz/1_kanye_q
       - file: week_6/index
         title: "Week 6️⃣"
-          -file: week_6/lab/1_PacMan
+        sections:
+          - file: week_6/lab/1_PacMan
       - file: midterm/index
         title: "Practice Midterm"
         sections:
