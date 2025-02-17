@@ -2,11 +2,11 @@
 
 <!-- ## Announcements
 
-**Lab 1: Note all labs for week 1 will be held in the Innovation studio.** -->
+**Lab 1: Note all labs for week 1 will be held in the Innovation studio.** --> 
 
 ## Assignments 
 
-listed in chronological order of due date
+listed in chronological order of due date 
 
 [🏠 🚀 Homework: Build Your Own *Star Wars* Title Scene! 🌌   (2/20 - 1:59pm)](../jupyterbook/week_6/homework/1_star_wars_q.ipynb)
 

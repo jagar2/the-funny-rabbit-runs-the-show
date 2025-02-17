@@ -33,9 +33,9 @@ class Question2(SelectMany):
             title=f"Select All That Apply",
             style=MultiSelect,
             question_number=2,
-            keys=['q2-1-rolex-inheritance-benefits'],
-            descriptions=['What are the benefits of using multiple inheritance in the design of a Rolex GMT class?'],
-            options=[['Combines functionalities from different classes (e.g., time display and GMT tracking).', 'Allows the class to inherit and override methods from multiple sources.', 'Ensures that only one parent class can contribute methods.', 'Simplifies code reuse by leveraging existing class behaviors.']],
-            points=[2.0],
+            keys=['q2-1-rolex-inheritance-benefits', 'q2-2-rolex-diamond-mix'],
+            descriptions=['What are the benefits of using multiple inheritance in the design of a Rolex GMT class?', 'Which of the following would be valid parent classes for a Rolex GMT watch model using multiple inheritance?'],
+            options=[['Combines functionalities from different classes (e.g., time display and GMT tracking).', 'Allows the class to inherit and override methods from multiple sources.', 'Ensures that only one parent class can contribute methods.', 'Simplifies code reuse by leveraging existing class behaviors.'], ['`class Timekeeping:`', '`class LuxuryBrand:`', '`class BatteryPowered:`', '`class GoldPlated:`']],
+            points=[2.0, 2.0],
             grade=['parts'],
         )
