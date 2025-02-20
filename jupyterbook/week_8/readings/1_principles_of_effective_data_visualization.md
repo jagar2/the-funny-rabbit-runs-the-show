@@ -1,4 +1,5 @@
 # 📖 Principles of Effective Data Visualization
 
-```{embed} assets/pdf/principles_of_effective_data_visualization.pdf
-```
+<iframe src="../../_static/Principles_of_Effective_Data_Visualization.pdf" width="100%" height="600px"></iframe>
+
+
