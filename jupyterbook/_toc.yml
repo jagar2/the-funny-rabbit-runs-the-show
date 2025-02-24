@@ -260,7 +260,7 @@ parts:
               - file: week_8/readings/5_seaborn_q
               - file: week_8/readings/6_pandas_visualization
               - file: week_8/readings/7_zillow_q 
-          - file: week_7/lecture/index
+          - file: week_8/lecture/index
             title: "👩‍🏫 Lecture"
             sections:
               - file: week_8/lecture/1_Introduction_Data_Vis
@@ -272,9 +272,6 @@ parts:
               - file: week_8/lecture/7_Importance_of_Data_Analysis
               - file: week_8/lecture/8_flight_data
               - file: week_8/lecture/9_Cool_visualizations
-          # - file: week_7/lab/1_world_of_warcraft
-          # - file: week_7/practicequiz/1_practicequiz_q
-          # - file: week_7/attendance/1_week_7_attendance
       - file: midterm/index
         title: "Practice Midterm"
         sections:
